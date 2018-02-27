@@ -55,4 +55,10 @@ We are also inviting people to present their projects!
 * Will there be food?
   * Yup!
 * Who is organizing the unconference?
-  * As of now, this is a joint collaboration between the engineering organizations within BCOE. If you or your organization would like to join, please reach out to us at [contact@acmucr.org](mailto:contact@acmucr.org)!
+  * This is a joint venture between an interdisciplinary group of student organizations at UC Riverside. If you or your organization would like to join, please reach out to us at [contact@acmucr.org](mailto:contact@acmucr.org)!
+    * Association for Computing Machinery
+    * Society of Women Engineers
+    * American Institute of Chemical Engineers
+    * Theta Tau
+    * Gamespawn
+    * Window to the Brain
