@@ -369,7 +369,7 @@ ul {
 .owl-carousel .owl-nav .owl-next {
 	display: inline-block;
 	height: 50px;
-	width: 100px;
+	width: 50px;
 	background: #6a23b5;
 	color: #fff;
 	text-align: center;
@@ -539,6 +539,17 @@ ul {
 	padding-top: 320px;
 	background: #220c3b;
 	position: relative;
+}
+
+.people-overlay {
+	position: absolute;
+	background-image: url("../img/threedudes2.png");
+	background-repeat: no-repeat;
+	background-position: bottom right;
+	background-size: contain;
+	bottom: 0;
+	height: 78%;
+	left: 50px;
 }
 
 .test-overlay {
